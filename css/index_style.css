@@ -1,0 +1,14 @@
+body{
+    color:rgb(80, 77, 230);
+}
+label
+{
+    color:#000000;
+    font-weight: 500 ;
+}
+.table{
+    color: #080808;
+}
+.table td{
+    color:rgb(80, 77, 230);
+}
